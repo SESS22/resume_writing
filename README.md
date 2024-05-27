@@ -43,9 +43,9 @@ Here is an example:
 
 **Education**
 ----
-**Bachelor of Engineering: Software Engineering**   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Expected Graduation: Aug, 2025
+**Bachelor of Engineering: Software Engineering**   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Expected Graduation: Aug, 2025
 
-*Seneca College* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &emsp; Award1, Honour1, CGPA: 4.0
+*Seneca College* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Award1, Honour1, CGPA: 4.0
 
 **Relevant Coursework**: Web Programming, Machine Learning, Opearating System
 
